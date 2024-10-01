@@ -1,0 +1,2 @@
+# FuzzyToolbox
+Fuzzy Toolbox
